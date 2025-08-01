@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Big Data</title>
+    <link>https://quartz.jzhao.xyz/IntroduzioBigData/Big-Data/Big-Data</link>
+    <guid>https://quartz.jzhao.xyz/IntroduzioBigData/Big-Data/Big-Data</guid>
+    <description><![CDATA[  Il Big Data è definito come: Estrazione “conosciuta” da un immenso volume, varietà e velocità dei dati, nel contesto in cui si trovano, oltre ciò che era precedentemente possibile. ]]></description>
+    <pubDate>Fri, 01 Aug 2025 22:21:56 GMT</pubDate>
+  </item><item>
+    <title>Data Governance</title>
+    <link>https://quartz.jzhao.xyz/IntroduzioBigData/Data-Governance/Data-Governance</link>
+    <guid>https://quartz.jzhao.xyz/IntroduzioBigData/Data-Governance/Data-Governance</guid>
+    <description><![CDATA[ La Data Governance consiste nella pianificazione e nell’esecuzione di pratiche volte ad acquisire, controllare, proteggere e trasmettere dati, oltre ad incrementarne il Valore dei dati stessi e degli asset informativi di una organizzazione, attraverso l’esecuzione delle diverse tipologie di Analisi. ]]></description>
+    <pubDate>Fri, 01 Aug 2025 22:21:56 GMT</pubDate>
+  </item><item>
+    <title>Drawing 2025-06-04 23.08.52.excalidraw</title>
+    <link>https://quartz.jzhao.xyz/IntroduzioBigData/Excalidraw/Drawing-2025-06-04-23.08.52.excalidraw</link>
+    <guid>https://quartz.jzhao.xyz/IntroduzioBigData/Excalidraw/Drawing-2025-06-04-23.08.52.excalidraw</guid>
+    <description><![CDATA[ ⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ]]></description>
+    <pubDate>Fri, 01 Aug 2025 22:21:56 GMT</pubDate>
+  </item><item>
+    <title>Drawing 2025-06-09 22.48.04.excalidraw</title>
+    <link>https://quartz.jzhao.xyz/IntroduzioBigData/Excalidraw/Drawing-2025-06-09-22.48.04.excalidraw</link>
+    <guid>https://quartz.jzhao.xyz/IntroduzioBigData/Excalidraw/Drawing-2025-06-09-22.48.04.excalidraw</guid>
+    <description><![CDATA[ ⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ]]></description>
+    <pubDate>Fri, 01 Aug 2025 22:21:56 GMT</pubDate>
+  </item><item>
+    <title>Drawing 2025-06-15 12.39.51.excalidraw</title>
+    <link>https://quartz.jzhao.xyz/IntroduzioBigData/Hadoop-and-MapReduce/Drawing-2025-06-15-12.39.51.excalidraw</link>
+    <guid>https://quartz.jzhao.xyz/IntroduzioBigData/Hadoop-and-MapReduce/Drawing-2025-06-15-12.39.51.excalidraw</guid>
+    <description><![CDATA[ ⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ]]></description>
+    <pubDate>Fri, 01 Aug 2025 22:21:56 GMT</pubDate>
+  </item><item>
+    <title>HDFS</title>
+    <link>https://quartz.jzhao.xyz/IntroduzioBigData/Hadoop-and-MapReduce/HDFS</link>
+    <guid>https://quartz.jzhao.xyz/IntroduzioBigData/Hadoop-and-MapReduce/HDFS</guid>
+    <description><![CDATA[ HDFS è un file system distribuito progettato per memorizzare file di grandi dimensioni, con modalità di accesso in streaming, e che gira su un cluster di commodity hardware. ]]></description>
+    <pubDate>Fri, 01 Aug 2025 22:21:56 GMT</pubDate>
+  </item><item>
+    <title>Hadoop</title>
+    <link>https://quartz.jzhao.xyz/IntroduzioBigData/Hadoop-and-MapReduce/Hadoop</link>
+    <guid>https://quartz.jzhao.xyz/IntroduzioBigData/Hadoop-and-MapReduce/Hadoop</guid>
+    <description><![CDATA[ Hadoop: una piattaforma scalabile e affidabile per lo storage e l’analisi condivisa, che è Open Source e gira su hardware commodity, quindi è costo-efficace. ]]></description>
+    <pubDate>Fri, 01 Aug 2025 22:21:56 GMT</pubDate>
+  </item><item>
+    <title>MapReduce</title>
+    <link>https://quartz.jzhao.xyz/IntroduzioBigData/Hadoop-and-MapReduce/MapReduce</link>
+    <guid>https://quartz.jzhao.xyz/IntroduzioBigData/Hadoop-and-MapReduce/MapReduce</guid>
+    <description><![CDATA[ MR è uno strumento di elaborazione batch in parallelo dei dati altamente distribuito, scalabile orizzontalmente, con tolleranza agli errori nel framework Hadoop che viene eseguito su un cluster di server di base inaffidabili per elaborare Big Data. ]]></description>
+    <pubDate>Fri, 01 Aug 2025 22:21:56 GMT</pubDate>
+  </item><item>
+    <title>Clustering Gerarchico</title>
+    <link>https://quartz.jzhao.xyz/IntroduzioBigData/Machine-Learning/ML-NON-Supervisionato/Clustering-Gerarchico</link>
+    <guid>https://quartz.jzhao.xyz/IntroduzioBigData/Machine-Learning/ML-NON-Supervisionato/Clustering-Gerarchico</guid>
+    <description><![CDATA[ Il Clustering Gerarchico Agglomerativo è una tecnica di clustering utilizzata per organizzare i dati in una struttura ad albero, chiamata dendrogramma, che rappresenta le relazioni di similarità tra i dati. ]]></description>
+    <pubDate>Fri, 01 Aug 2025 22:21:56 GMT</pubDate>
+  </item><item>
+    <title>Elbow criteria</title>
+    <link>https://quartz.jzhao.xyz/IntroduzioBigData/Machine-Learning/ML-NON-Supervisionato/Elbow-criteria</link>
+    <guid>https://quartz.jzhao.xyz/IntroduzioBigData/Machine-Learning/ML-NON-Supervisionato/Elbow-criteria</guid>
+    <description><![CDATA[ L’obiettivo della cluster analysis è quello di minimizzare la varianza (Var_w) all’interno del cluster (Within cluster variance), e di massimizzare la varianza (Var_b) tra i cluster (Between cluster variance). ]]></description>
+    <pubDate>Fri, 01 Aug 2025 22:21:56 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
