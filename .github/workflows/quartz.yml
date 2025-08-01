@@ -22,7 +22,7 @@ jobs:
           node-version: 22
 
       - name: Install dependencies
-        run: npm i
+        run: npm ci
 
       - name: Build Quartz
         run: npx quartz build
