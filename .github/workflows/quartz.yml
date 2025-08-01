@@ -26,7 +26,7 @@ jobs:
 
       - name: Build Quartz
         working-directory: ./
-        run: npx quartz build
+        run: /home/runner/.npm/_npx/node-22/bin/npx quartz build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
