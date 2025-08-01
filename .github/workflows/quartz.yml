@@ -16,17 +16,17 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node
+      - name: Setup Node and install dependencies
         uses: actions/setup-node@v3
         with:
-          node-version: 22
+            node-version: 22
 
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
       - name: Build Quartz
         working-directory: ./
-        run: /home/runner/.npm/_npx/node-22/bin/npx quartz build
+        run: npx quartz build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
