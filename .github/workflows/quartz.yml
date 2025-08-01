@@ -22,7 +22,7 @@ jobs:
           node-version: 22
 
       - name: Install Quartz globally
-        run: npm install -g @jackyzha0/quartz
+        run: npm install -g quartz
 
       - name: Build Quartz
         run: npx quartz build
